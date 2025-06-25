@@ -1,4 +1,13 @@
-## Hi there 👋
+# Projects
+
+## 🟢 Current Projects
+
+- [**Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+
+## ⚫ Retired / Archived Projects
+
+- **AXiCOR** — A multifunctional Discord bot built and hosted on Autocode.com, featuring utility commands and automation features. Archived after Autocode discontinued its hosting platform.
+- **QLXT Database** — A large-scale, widely-adopted GitHub-hosted database of structured values and image assets.
 
 <!--
 **AlinaWan/AlinaWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
