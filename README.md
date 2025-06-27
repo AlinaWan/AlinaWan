@@ -6,8 +6,8 @@
 
 ## ⚫ Retired / Archived Projects
 
-- **AXiCOR** — A multifunctional Discord bot built and hosted on Autocode.com, featuring utility commands and automation features. Archived after Autocode discontinued its hosting platform.
-- **QLXT Database** — A large-scale, widely-adopted GitHub-hosted database of structured values and image assets.
+- **AXiCOR** — A multifunctional Discord bot built and hosted on Autocode.com, featuring utility commands, automation features, and integration with Twitter (now X). Archived after Autocode discontinued its hosting platform.
+- **QLXT Database** — A large-scale, widely-adopted GitHub-hosted database of structured values and image assets, with charts generated in Excel and community engagement facilitated through Discord.
 
 <!--
 **AlinaWan/AlinaWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
