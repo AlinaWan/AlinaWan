@@ -3,6 +3,13 @@
 ## 🟢 Current Projects
 
 - [**Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — An optimization guide and monorepo for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), featuring configuration files and pattern definitions in the Config Suite and Pattern Suite for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Includes useful scripts like Pip Reroller (a Python-based macro) and smart CI workflows to enhance development and automation.
+
+<!--
+## 🟡 Contributions / Collaborations
+
+* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+-->
 
 ## ⚫ Retired / Archived Projects
 
