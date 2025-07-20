@@ -1,6 +1,10 @@
-# Hi, I’m Alina 👋  
+<div align="center">
+  <h1>Hi, I’m Alina 👋</h1>
+</div>
 
+<div align="center">
 A passionate Roblox utility developer and automation engineer specializing in pixel-detection and tooling for game enhancement. I build open-source utilities that streamline gameplay and improve user experience.
+</div>
 
 # Projects
 
