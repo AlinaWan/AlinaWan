@@ -1,10 +1,20 @@
+# Hi, I’m Alina 👋  
+
+A passionate Roblox utility developer and automation engineer specializing in pixel-detection and tooling for game enhancement. I build open-source utilities that streamline gameplay and improve user experience.
+
 # Projects
 
 ## 🟢 Current Projects
 
-- [**Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+- [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
 - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (olim Pip Reroller) — Automates chiseling/rerolling pips on charms in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
+- [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser) — Automates appraising items in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — An optimization guide and monorepo for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), featuring configuration files and pattern definitions in the Config Suite and Pattern Suite for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). The [Auto Appraiser](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser) macro lives here under the Tool Suite.
+
+## 🟡 Projects on Hold
+
+- [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for Roblox using Selenium for browser interaction.
+- [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying Royale High item data, built for developers and automation tools needing fast item lookup functionality.
 
 <!--
 ## 🟡 Contributions / Collaborations
