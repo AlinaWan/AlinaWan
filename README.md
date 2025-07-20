@@ -3,7 +3,7 @@
 ## 🟢 Current Projects
 
 - [**Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
-- [**Pip Reroller**](https://github.com/AlinaWan/pip-reroller) (a.k.a. Auto Chiseler) — Automates rerolling pips on charms in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
+- [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (olim Pip Reroller) — Automates chiseling/rerolling pips on charms in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — An optimization guide and monorepo for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), featuring configuration files and pattern definitions in the Config Suite and Pattern Suite for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). The [Auto Appraiser](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser) macro lives here under the Tool Suite.
 
 <!--
