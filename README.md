@@ -34,6 +34,7 @@
 
 ## ⚫ Retired / Archived Projects
 
+- **Xelvanta Group Systems™ EyeVIE™** (Emergency Vital Image-based Evaluation) — A prototype emergency detection system that monitors for falls and chest clenching using pose detection/image analysis, and automatically sends SMS alerts to emergency services when an incident is detected.
 - **AXiCOR** — A multifunctional Discord bot built and hosted on Autocode.com, featuring utility commands, automation features, and integration with Twitter/X—allowing users to tweet directly by messaging in a designated Discord channel. Archived after Autocode discontinued its hosting platform.
 - **QLXT Database** — A large-scale, widely-adopted GitHub-hosted database of structured values and image assets, with charts generated in Excel and community engagement facilitated through Discord.
 
