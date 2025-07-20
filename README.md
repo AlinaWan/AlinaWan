@@ -3,7 +3,13 @@
 </div>
 
 <div align="center">
-A passionate Roblox utility developer and automation engineer specializing in pixel-detection and tooling for game enhancement. I build open-source utilities that streamline gameplay and improve user experience.
+  A passionate Roblox utility developer and automation engineer specializing in pixel-detection and tooling for game enhancement. I build open-source utilities that streamline gameplay and improve user experience.
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlinaWan&show_icons=true&theme=radical" />
 </div>
 
 # Projects
