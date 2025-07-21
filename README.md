@@ -21,16 +21,14 @@
 - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser) — Automates appraising items in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — An optimization guide and monorepo for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), featuring configuration files and pattern definitions in the Config Suite and Pattern Suite for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). The [Auto Appraiser](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser) macro lives here under the Tool Suite.
 
+## 🔵 Contributions / Collaborations
+
+* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
+
 ## 🟡 Projects on Hold
 
 - [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for Roblox using Selenium for browser interaction.
 - [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying Royale High item data, built for developers and automation tools needing fast item lookup functionality.
-
-<!--
-## 🟡 Contributions / Collaborations
-
-* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
--->
 
 ## ⚫ Retired / Archived Projects
 
