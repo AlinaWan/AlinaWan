@@ -34,7 +34,7 @@
 
 ## 🔵 Contributions / Collaborations
 
-* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
+* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the Roblox game [*DIG*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
 
 ## 🟡 Projects on Hold
 
