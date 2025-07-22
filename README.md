@@ -27,10 +27,10 @@
 ## 🟢 Current Projects
 
 - [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
-- [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (olim Pip Reroller) — Automates chiseling/rerolling pips on charms in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
-- [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser) — Automates appraising items in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
-- [**Auto Enchanter**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-enchanter) — Automates enchanting shovels in the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), intelligently stopping when your configured stop condition is met.
-- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — An optimization guide and monorepo for the Roblox game [*Dig!*](https://www.roblox.com/games/126244816328678), featuring configuration files and pattern definitions in the Config Suite and Pattern Suite for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool).
+- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the Roblox game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the Tool Suite, you’ll find:
+  - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
+  - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
+  - [**Auto Enchanter**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-enchanter): automates enchanting shovels to optimize gameplay.
 
 ## 🔵 Contributions / Collaborations
 
