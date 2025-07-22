@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  A passionate Roblox utility developer and automation engineer specializing in pixel-detection and tooling for game enhancement. I build open-source utilities that streamline gameplay and improve user experience.
+  A passionate Roblox infrastructure and automation engineer, specializing in custom systems that integrate scripting and tooling to streamline gameplay, bridge productivity, and enhance user experience. I develop open-source utilities and frameworks purpose-built for Roblox environments — combining precision automation with quality-of-life enhancements for players and power users alike.
 </div>
 
 <br>
