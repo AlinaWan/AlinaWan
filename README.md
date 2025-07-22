@@ -12,6 +12,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlinaWan&show_icons=true&theme=radical" />
 </div>
 
+<!--
+<br>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlinaWan" alt="Alina" />
+  </a>
+</p>
+-->
+
 # Projects
 
 ## 🟢 Current Projects
