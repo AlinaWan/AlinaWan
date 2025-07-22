@@ -26,20 +26,20 @@
 
 ## 🟢 Current Projects
 
-- [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for Roblox with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
-- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the Roblox game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the Tool Suite, you’ll find:
+- [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the Tool Suite, you’ll find:
   - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
   - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
   - [**Auto Enchanter**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-enchanter): automates enchanting shovels to optimize gameplay.
 
 ## 🔵 Contributions / Collaborations
 
-* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the Roblox game [*DIG*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
+* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
 
 ## 🟡 Projects on Hold
 
-- [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for Roblox using Selenium for browser interaction.
-- [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying Royale High item data, built for developers and automation tools needing fast item lookup functionality.
+- [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for [Roblox](https://corp.roblox.com) using Selenium for browser interaction.
+- [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
 
 ## ⚫ Retired / Archived Projects
 
