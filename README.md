@@ -27,6 +27,15 @@
 ## 🟢 Current Projects
 
 - [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
+
+<div align="center">
+
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://angelicwu.gumroad.com/l/SillySealPlusPlus)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/View%20Documentation-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AlinaWan/SillySealPlusPlus)
+
+</div>
+
 - [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the [Tool Suite](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite), you’ll find:
   - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
