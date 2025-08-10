@@ -37,6 +37,7 @@
 </div>
 
 - [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+- [**Mine Tool**](https://github.com/Xelvanta/roblox-custom-cursor) — An automation macro tool built to automate the mining minigame in the [Roblox](https://corp.roblox.com) game [*Mine*](https://www.roblox.com/games/115694170181074). This tool utilizes image processing with OpenCV and GUI control with Tkinter to provide real-time visual debugging and automated mouse actions.
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the [Tool Suite](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite), you’ll find:
   - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
   - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
