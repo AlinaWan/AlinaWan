@@ -26,6 +26,7 @@
 
 ## 🟢 Current Projects
 
+<!-- upcoming
 - [**Abyss Tool**](https://github.com/AlinaWan/abyss-tool) — An upcoming automation macro for an upcoming Roblox game. Designed for precision, extensibility, and community-driven development. Stage 1 focuses on planning, architecture, and early ML/Roboflow integration.
 
 <div align="center">
@@ -35,6 +36,7 @@
 [![GitHub](https://img.shields.io/badge/View%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AlinaWan/abyss-tool)
 
 </div>
+-->
 
 - [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
 
