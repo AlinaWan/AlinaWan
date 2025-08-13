@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Open Collective Total Funds](https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge)](https://opencollective.com/abyss-tool)
+[![Open Collective Backers & Sponsors](https://img.shields.io/opencollective/all/abyss-tool.svg?style=for-the-badge)](https://opencollective.com/abyss-tool)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/View%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AlinaWan/abyss-tool)
 
