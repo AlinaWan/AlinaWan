@@ -45,15 +45,15 @@
 
 ## 🟡 Projects on Hold
 
-- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the [Tool Suite](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite), you’ll find:
-  - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
-  - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
-  - [**Auto Enchanter**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-enchanter): automates enchanting shovels to optimize gameplay.
 - [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for [Roblox](https://corp.roblox.com) using Selenium for browser interaction.
 - [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
 
 ## ⚫ Retired / Archived Projects
 
+- [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the [Tool Suite](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite), you’ll find:
+  - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
+  - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
+  - [**Auto Enchanter**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-enchanter): automates enchanting shovels to optimize gameplay.
 - [**Mine Tool**](https://github.com/AlinaWan/mine-tool) — An automation macro tool built to automate the mining minigame in the [Roblox](https://corp.roblox.com) game [*Mine*](https://www.roblox.com/games/115694170181074). This tool utilizes image processing with OpenCV and GUI control with Tkinter to provide real-time visual debugging and automated mouse actions.
 - [**Tilty Tokens Solver**](https://github.com/AlinaWan/tilty-tokens-solver) — A Breadth-First Search (BFS) solver for the [Roblox](https://corp.roblox.com) game [*Tilty Tokens*](https://www.roblox.com/games/15675702).
 - [**Spelling Bee Word List by Kaarinaa™**](https://github.com/AlinaWan/SpellingBeeDictionary) - A compiled dictionary of words which appear in the [Roblox](https://corp.roblox.com) game [*Spelling Bee*](https://www.roblox.com/games/17590362521).
