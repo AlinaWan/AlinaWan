@@ -50,6 +50,9 @@
 
 ## ⚫ Retired / Archived Projects
 
+<details>
+  <summary>Click to expand</summary>
+
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the [Tool Suite](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite), you’ll find:
   - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
   - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
@@ -60,6 +63,8 @@
 - **Xelvanta Group Systems™ EyeVIE™** (Emergency Vital Image-based Evaluation) — A prototype emergency detection system that monitors for falls and chest clenching using pose detection/image analysis, and automatically sends SMS alerts to emergency services when an incident is detected.
 - **AXiCOR** — A multifunctional Discord bot built and hosted on Autocode.com, featuring utility commands, automation features, and integration with Twitter/X—allowing users to tweet directly by messaging in a designated Discord channel. Archived after Autocode discontinued its hosting platform.
 - **QLXT Database** — A large-scale, widely-adopted GitHub-hosted database of structured values and image assets, with charts generated in Excel and community engagement facilitated through Discord.
+
+</details>
 
 <!--
 **AlinaWan/AlinaWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
