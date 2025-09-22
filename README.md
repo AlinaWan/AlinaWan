@@ -37,6 +37,15 @@
 </div>
 
 - [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+
+<div align="center">
+
+[![Download for Free](https://img.shields.io/badge/Download%20for%20Free-Github-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor/raw/refs/heads/main/app/RCC3_Installer.exe)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/View%20Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor)
+
+</div>
+
 - [**Grow A Garden Seed Shop Macro**](https://github.com/AlinaWan/gag-seed-shop-macro) — An automation macro tool to automate UI navigation and seed purchasing in the [Roblox](https://corp.roblox.com) game [**Grow A Garden**](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
 
 ## 🔵 Contributions / Collaborations
