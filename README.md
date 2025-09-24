@@ -36,11 +36,11 @@
 
 </div>
 
-- [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development (v3) with a focus on user experience and ecosystem tooling.
+- [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
 
 <div align="center">
 
-[![Download for Free](https://img.shields.io/badge/Download%20for%20Free-Github-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor/raw/refs/heads/main/app/RCC3_Installer.exe)
+[![Download for Free](https://img.shields.io/badge/Download%20for%20Free-Github-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor/releases/latest/download/RCC3_Installer.exe)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/View%20Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor)
 
