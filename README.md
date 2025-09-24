@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![Download for Free](https://img.shields.io/badge/Download%20for%20Free-Github-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor/releases/latest/download/RCC3_Installer.exe)
+[![Download for Free](https://img.shields.io/badge/Download%20for%20Free-Github-green?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor/releases/latest/download/RCC3_Installer.exe)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/View%20Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Xelvanta/roblox-custom-cursor)
 
