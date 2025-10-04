@@ -46,8 +46,6 @@
 
 </div>
 
-- [**Grow A Garden Seed Shop Macro**](https://github.com/AlinaWan/gag-seed-shop-macro) — An automation macro tool to automate UI navigation and seed purchasing in the [Roblox](https://corp.roblox.com) game [**Grow A Garden**](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
-
 ## 🔵 Contributions / Collaborations
 
 * [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
@@ -62,6 +60,7 @@
 <details>
   <summary>Click to expand</summary>
 
+- [**Grow A Garden Seed Shop Macro**](https://github.com/AlinaWan/gag-seed-shop-macro) — An automation macro tool to automate UI navigation and seed purchasing in the [Roblox](https://corp.roblox.com) game [**Grow A Garden**](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
 - [**Punctuation Statistics**](https://github.com/AlinaWan/punctuation-statistics) — A Python command-line tool that extracts and analyzes all punctuation from a text file. It prints every punctuation mark in the order they appear, and then shows a frequency table (counts + percentages), sorted by most frequent first.
 - [**Dig Tool Configs**](https://github.com/AlinaWan/kc-dig-tool-configs) — A comprehensive monorepo containing purpose-built macros, scripts, and optimization guides for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678). It features configuration files and pattern definitions organized in the **Config Suite** designed for [*Dig Tool*](https://github.com/iamnotbobby/dig-tool). Within the [Tool Suite](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite), you’ll find:
   - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
