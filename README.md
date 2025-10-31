@@ -48,7 +48,9 @@
 
 ## 🔵 Contributions / Collaborations
 
-* [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
+<div align="center">
+  <i>Nothing yet, but future collaborations may include alien civilizations, time travelers, or AI romantic partners.</i>
+</div>
 
 ## 🟡 Projects on Hold
 
@@ -66,6 +68,7 @@
   - [**Auto Chiseler**](https://github.com/AlinaWan/auto-chiseler) (formerly Pip Reroller): automates chiseling charms to maximize efficiency.
   - [**Auto Appraiser**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-appraiser): streamlines item appraising through automation.
   - [**Auto Enchanter**](https://github.com/AlinaWan/kc-dig-tool-configs/tree/main/KC-Tool-Suite/auto-enchanter): automates enchanting shovels to optimize gameplay.
+- [**Dig Tool**](https://github.com/iamnotbobby/dig-tool) — A highly configurable automation tool specifically for the [Roblox](https://corp.roblox.com) game [*DIG*](https://www.roblox.com/games/126244816328678) where several algorithms are used in order achieve accuracy during the minigame.
 - [**Mine Tool**](https://github.com/AlinaWan/mine-tool) — An automation macro tool built to automate the mining minigame in the [Roblox](https://corp.roblox.com) game [*Mine*](https://www.roblox.com/games/115694170181074). This tool utilizes image processing with OpenCV and GUI control with Tkinter to provide real-time visual debugging and automated mouse actions.
 - [**Tilty Tokens Solver**](https://github.com/AlinaWan/tilty-tokens-solver) — A Breadth-First Search (BFS) solver for the [Roblox](https://corp.roblox.com) game [*Tilty Tokens*](https://www.roblox.com/games/15675702).
 - [**Spelling Bee Word List by Kaarinaa™**](https://github.com/AlinaWan/SpellingBeeDictionary) - A compiled dictionary of words which appear in the [Roblox](https://corp.roblox.com) game [*Spelling Bee*](https://www.roblox.com/games/17590362521).
