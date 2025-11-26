@@ -43,7 +43,7 @@
 
 # Projects
 
-> 📌 = Portfolio Highlight
+> 📌 = Portfolio Highlight | 🤝 = Looking for Help
 
 ## 🟢 Current Projects
 
@@ -57,7 +57,7 @@
 
 </div>
 
-- 📌 [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
+- 📌🤝 [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 ## 🟡 Projects on Hold
 
 - [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for [Roblox](https://corp.roblox.com) using Selenium for browser interaction.
-- 📌 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
+- 📌🤝 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
 
 ## ⚫ Retired / Archived Projects
 
