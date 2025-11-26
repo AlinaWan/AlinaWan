@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlinaWan&show_icons=true&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlinaWan&theme=github_dark" />
 </div>
 
 <!--
