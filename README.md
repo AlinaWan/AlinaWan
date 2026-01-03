@@ -67,6 +67,8 @@
 
 </div>
 
+- 📌🤝 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
+
 ## 🔵 Contributions / Collaborations
 
 <div align="center">
@@ -76,7 +78,6 @@
 ## 🟡 Projects on Hold
 
 - [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for [Roblox](https://corp.roblox.com) using Selenium for browser interaction.
-- 📌🤝 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
 
 ## ⚫ Retired / Archived Projects
 
@@ -94,8 +95,8 @@
 - [**Tilty Tokens Solver**](https://github.com/AlinaWan/tilty-tokens-solver) — A Breadth-First Search (BFS) solver for the [Roblox](https://corp.roblox.com) game [*Tilty Tokens*](https://www.roblox.com/games/15675702).
 - [**Spelling Bee Word List by Kaarinaa™**](https://github.com/AlinaWan/SpellingBeeDictionary) - A compiled dictionary of words which appear in the [Roblox](https://corp.roblox.com) game [*Spelling Bee*](https://www.roblox.com/games/17590362521).
 - **Xelvanta Group Systems™ EyeVIE™** (Emergency Vital Image-based Evaluation) — A prototype emergency detection system that monitors for falls and chest clenching using pose detection/image analysis, and automatically sends SMS alerts to emergency services when an incident is detected.
-- **AXiCOR** — A multifunctional Discord bot built and hosted on Autocode.com, featuring utility commands, automation features, and integration with Twitter/X—allowing users to tweet directly by messaging in a designated Discord channel. Archived after Autocode discontinued its hosting platform.
-- **QLXT Database** — A large-scale, widely-adopted GitHub-hosted database of structured values and image assets, with charts generated in Excel and community engagement facilitated through Discord.
+- **AXiCOR** — A multifunctional, AI-driven Discord utility and chatbot built and hosted on Autocode.com, featuring utility commands, automation features, and integration with Twitter/X—allowing users to tweet directly by messaging in a designated Discord channel. Archived after Autocode discontinued its hosting platform.
+- **QLXT Database** — A comprehensive, credible GitHub-hosted database of structured values and image assets for [Evade](https://www.roblox.com/games/9872472334) and [Tower Heroes](https://www.roblox.com/games/4646477729), with charts generated in Excel and community engagement facilitated through Discord.
 
 </details>
 
