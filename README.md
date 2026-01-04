@@ -47,16 +47,6 @@
 
 ## 🟢 Current Projects
 
-- 📌 [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
-
-<div align="center">
-
-[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://angelicwu.gumroad.com/l/SillySealPlusPlus)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/View%20Documentation-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AlinaWan/SillySealPlusPlus)
-
-</div>
-
 - 📌🤝 [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
 
 <div align="center">
@@ -68,6 +58,8 @@
 </div>
 
 - 📌🤝 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
+
+- [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A proof-of-concept launcher designed to restore and modernize the [Roblox](https://corp.roblox.com) social experience because Roblox is removing in-game communication unless users provide pictures of their face or government IDs.
 
 ## 🔵 Contributions / Collaborations
 
@@ -83,6 +75,16 @@
 
 <details>
   <summary>Click to expand</summary>
+
+- 📌 [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
+
+<div align="center">
+
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://angelicwu.gumroad.com/l/SillySealPlusPlus)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/View%20Documentation-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AlinaWan/SillySealPlusPlus)
+
+</div>
 
 - [**Grow A Garden Seed Shop Macro**](https://github.com/AlinaWan/gag-seed-shop-macro) — An automation macro tool to automate UI navigation and seed purchasing in the [Roblox](https://corp.roblox.com) game [**Grow A Garden**](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
 - [**Punctuation Statistics**](https://github.com/AlinaWan/punctuation-statistics) — A Python command-line tool that extracts and analyzes all punctuation from a text file. It prints every punctuation mark in the order they appear, and then shows a frequency table (counts + percentages), sorted by most frequent first.
