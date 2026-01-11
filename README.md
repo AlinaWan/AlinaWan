@@ -47,6 +47,8 @@
 
 ## 🟢 Current Projects
 
+- 📌🤝 [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A proof-of-concept launcher designed to restore and modernize the [Roblox](https://corp.roblox.com) social experience because Roblox is removing in-game communication unless users provide pictures of their face or government IDs.
+
 - 📌🤝 [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
 
 <div align="center">
@@ -58,8 +60,6 @@
 </div>
 
 - 📌🤝 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
-
-- 📌🤝 [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A proof-of-concept launcher designed to restore and modernize the [Roblox](https://corp.roblox.com) social experience because Roblox is removing in-game communication unless users provide pictures of their face or government IDs.
 
 ## 🔵 Contributions / Collaborations
 
