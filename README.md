@@ -1,5 +1,8 @@
 <div align="center">
+  <hgroup>
   <h1>Hi, I’m Alina 👋</h1>
+  <p>(some of you may know me as Riri 🩷)</p>
+  </hgroup>
 </div>
 
 <div align="center">
@@ -15,7 +18,7 @@
         Obsessed with Automation 🤖
       </td>
       <td style="background-color:#d73a49; color:white; padding:6px 12px; border-radius:6px; margin:2px;">
-        Languages: Python, AHK, Powershell, JS 🐍
+        Languages: C#, Python, AHK, Powershell, JS 🐍
       </td>
     </tr>
   </table>
