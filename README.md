@@ -50,7 +50,7 @@
 
 ## 🟢 Current Projects
 
-- 📌🤝 [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A full stack launcher ecosystem designed to restore and modernize the [Roblox](https://corp.roblox.com) social experience because Roblox is removing in-game communication unless users provide pictures of their face or government IDs. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
+- 📌🤝 [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
 
 ## 🔵 Contributions / Collaborations
 
