@@ -79,6 +79,7 @@
 <details>
   <summary>Click to expand</summary>
 
+- [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — A high-frequency, computer-vision-driven stabilization and execution utility architected for the [Bees](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com).
 - 📌 [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
 
 <div align="center">
