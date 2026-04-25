@@ -52,7 +52,7 @@
 
 - 📌🤝 [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
 
-- [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — A high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com).
+- 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — A high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com).
 
 ## 🔵 Contributions / Collaborations
 
@@ -62,7 +62,7 @@
 
 ## 🟡 Projects on Hold
 
-- 📌 [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
+- [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
 
 <div align="center">
 
@@ -82,7 +82,7 @@
   <summary>Click to expand</summary>
 
 - [**The Battle Bricks Macro**](https://github.com/AlinaWan/the-battle-bricks-macro) — A simple auto-battler for accumulating XP currency in the game [*The Battle Bricks*](https://www.roblox.com/games/10834586502) on [Roblox](https://corp.roblox.com).
-- 📌 [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
+- [**SillySeal++™**](https://angelicwu.gumroad.com/l/SillySealPlusPlus) — The ultimate fishing macro for the [Roblox](https://corp.roblox.com) game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed for precision and ease, SillySeal++ automates the fishing minigame with real-time pixel detection, letting you focus on being the silliest seal.
 
 <div align="center">
 
