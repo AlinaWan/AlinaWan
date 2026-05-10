@@ -50,7 +50,7 @@
 
 ## 🟢 Current Projects
 
-- 📌🤝 [**Roblox Chat Launcher**](https://github.com/AlinaWan/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
+- 📌🤝 [**Roblox Chat Launcher**](https://github.com/RobloxChatLauncher/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
 
 - 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — A high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com).
 
