@@ -131,6 +131,8 @@
   </table>
 </div>
 
+<div align="center"><sup><sub>For the purposes of Canadian law, I am not a member of, nor am I registered with, any of the following provincial or territorial engineering regulators: APEGA, Engineers and Geoscientists BC, APEGS, Engineers Geoscientists Manitoba, Engineers and Geoscientists New Brunswick, PEGNL, NAPEG, Engineers Yukon, Professional Engineers Ontario, OIQ, Engineers Nova Scotia, or Engineers PEI.</sub></sup></div>
+
 <!--
 **AlinaWan/AlinaWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
