@@ -54,6 +54,8 @@
 
 - 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — The most technically advanced Roblox macro **ever** written in Python; a high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com), featuring a from-scratch native methods wrapper with 700 lines of manually defined structs, WinDLL imports, argtypes, and restypes, a custom C DLL, OCR & webhook support, and over 20 modular SRP-compliant services and utilities.
 
+- 📌 [**Bloxburg Solar Panel Calculator**](https://gist.github.com/AlinaWan/feebbc37f60ba34a992d8b2cb6150c1e) (Gist) — A state-space optimization calculator for [*Welcome to Bloxburg*](https://www.roblox.com/games/185655149) on [Roblox](https://corp.roblox.com) to calculate the optimal solar panel combination for any given house value and formal induction proof for the representability threshold of a Frobenius-like coin exchange/panel-value combination problem.
+
 ## 🔵 Contributions / Collaborations
 
 <div align="center">
@@ -81,7 +83,6 @@
 <details>
   <summary>Click to expand</summary>
 
-- 📌 [**Bloxburg Solar Panel Calculator**](https://gist.github.com/AlinaWan/feebbc37f60ba34a992d8b2cb6150c1e) (Gist) — A state-space optimization calculator for [*Welcome to Bloxburg*](https://www.roblox.com/games/185655149) on [Roblox](https://corp.roblox.com) to calculate the optimal solar panel combination for any given house value.
 - [**The Battle Bricks Macro**](https://github.com/AlinaWan/the-battle-bricks-macro) — A simple auto-battler for accumulating XP currency in the game [*The Battle Bricks*](https://www.roblox.com/games/10834586502) on [Roblox](https://corp.roblox.com).
 - [**Dijkstra's algorithm optimal upgrade path calculator for Trucking Tycoon E&E**](https://gist.github.com/AlinaWan/5bc9128b949043de4853f423406a9ec2) (Gist) — An optimal upgrade path calculator utilizing Dijkstra's algorithm to calculate the best upgrade path by comparing arbitrary units of time for [*Trucking Tycoon: EXPANDED & ENHANCED*](https://www.roblox.com/games/140423719422750) on [Roblox](https://corp.roblox.com).
 - **Temporal Fall Detection System** — A proof-of-concept fall detection system utilizing advanced machine learning via Ultralytics, TensorFlow, scikit-learn, and a locally-trained LSTM model trained on [Dataset CAUCAFall](doi.org/10.17632/7w7fccy7ky.5); designed to automatically distinguish falls from ADLs (activities of daily life) and send real SMS alerts to a caregiver when a fall is detected. Guidance and mentorship was provided by a professor from the [Institute of Biomedical Engineering](https://bme.utoronto.ca) at [University of Toronto](https://www.utoronto.ca).
