@@ -54,7 +54,9 @@
 
 - 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — The most technically advanced Roblox macro **ever** written in Python; a high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com), featuring a from-scratch native methods wrapper with 700 lines of manually defined structs, WinDLL imports, argtypes, and restypes, a custom C DLL, OCR & webhook support, and over 20 modular SRP-compliant services and utilities.
 
-- 📌 [**Bloxburg Solar Panel Calculator**](https://gist.github.com/AlinaWan/feebbc37f60ba34a992d8b2cb6150c1e) (Gist) — A state-space optimization calculator for [*Welcome to Bloxburg*](https://www.roblox.com/games/185655149) on [Roblox](https://corp.roblox.com) to calculate the optimal solar panel combination for any given house value and formal induction proof for the representability threshold of a Frobenius-like coin exchange/panel-value combination problem.
+- [**Bloxburg Solar Panel Calculator**](https://gist.github.com/AlinaWan/feebbc37f60ba34a992d8b2cb6150c1e) (Gist) — A state-space optimization calculator for [*Welcome to Bloxburg*](https://www.roblox.com/games/185655149) on [Roblox](https://corp.roblox.com) to calculate the optimal solar panel combination for any given house value and formal induction proof for the representability threshold of a Frobenius-like coin exchange/panel-value combination problem.
+
+- [**Discord RPC Client**](https://github.com/AlinaWan/DiscordRPCClient) — A fully free, open-source, and unopinionated Discord Custom Rich Presence editor.
 
 ## 🔵 Contributions / Collaborations
 
