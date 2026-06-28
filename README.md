@@ -54,6 +54,8 @@
 
 - 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — The most technically advanced Roblox macro **ever** written in Python; a high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com), featuring a from-scratch native methods wrapper with 700 lines of manually defined structs, WinDLL imports, argtypes, and restypes, a custom C DLL, OCR & webhook support, and over 20 modular SRP-compliant services and utilities.
 
+- [**Storage Hunters Tool**](https://github.com/AlinaWan/storage-hunters-tool) — Storage Hunters Tool is a real-time computer vision tool built for the [Storage Hunters: Open World](https://www.roblox.com/games/98800969324557) environment. The system observes the movement of a signal over a continuous space and evaluates the target region in the same plane. When the movement and region match, an action is taken immediately. (A derived continuation of [Bees Tool](https://github.com/AlinaWan/bees-tool))
+
 - [**Bloxburg Solar Panel Calculator**](https://gist.github.com/AlinaWan/feebbc37f60ba34a992d8b2cb6150c1e) (Gist) — A state-space optimization calculator for [*Welcome to Bloxburg*](https://www.roblox.com/games/185655149) on [Roblox](https://corp.roblox.com) to calculate the optimal solar panel combination for any given house value and formal induction proof for the representability threshold of a Frobenius-like coin exchange/panel-value combination problem.
 
 - [**Discord RPC Client**](https://github.com/AlinaWan/DiscordRPCClient) — A fully free, open-source, and unopinionated Discord Custom Rich Presence editor.
