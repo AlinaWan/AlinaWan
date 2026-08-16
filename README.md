@@ -60,6 +60,8 @@
 
 - [**Discord RPC Client**](https://github.com/AlinaWan/DiscordRPCClient) — A fully free, open-source, and unopinionated Discord Custom Rich Presence editor.
 
+- [**Conway-Wechsler Converter**](https://gist.github.com/AlinaWan/eb6cb03636ebd408f62f3dcd4800ad35) (Gist) — A Conway-Wechsler converter that adheres to liaison and assimilation rules, uses Miakinen's quin modification, and can output both short or long scale (Chuquet-Peletier system).
+
 ## 🔵 Contributions / Collaborations
 
 <div align="center">
