@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  A passionate systems engineer, specializing in custom systems that integrate scripting and tooling to streamline gameplay, bridge productivity, and enhance user experience. I develop open-source utilities and frameworks purpose-built for Roblox environments — combining precision automation with quality-of-life enhancements for players and power users alike.
+  A passionate systems engineer specializing in low-level operations, time-complexity optimization, and custom utility frameworks. I architect high-performance automation tools and native extensions, combining precision systems engineering, interop scripting, and computer vision to build seamless, highly optimized software for power users and developers.
 </div>
 
 <br>
