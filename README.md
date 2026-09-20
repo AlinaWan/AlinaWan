@@ -48,17 +48,11 @@
 
 > 📌 = Portfolio Highlight | 🤝 = Looking for Help
 
-## 🟢 Current Projects
+## 🟢 Active Projects
 
-- 🤝 [**Hazel**](https://github.com/HazelLanguage/Hazel) — A modern, high performance programming language designed for building scalable, highly type-safe, and enterprise-grade applications.
-
-- 📌🤝 [**Roblox Chat Launcher**](https://github.com/RobloxChatLauncher/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
+- 📌 [**Livia**](https://github.com/AlinaWan/Livia) — An avant-garde open-source C# automation framework and engine that brings reusable, extensible software architecture to Roblox macros, challenging the status quo of building automation as isolated, one-off scripts.
 
 - 📌 [**Storage Hunters Tool**](https://github.com/AlinaWan/storage-hunters-tool) — The next generation of Roblox macro built upon [Bees Tool](https://github.com/AlinaWan/bees-tool)'s Præstantia Summa Engine; now with over 1000 lines of native methods, 350 lines of assembly & C++, and massively improved in performance and code quality. Storage Hunters Tool is a real-time computer vision tool built for the [Storage Hunters: Open World](https://www.roblox.com/games/98800969324557) environment. The system observes the movement of a signal over a continuous space and evaluates the target region in the same plane. When the movement and region match, an action is taken immediately.
-
-- 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — The most technically advanced Roblox macro **ever** written in Python; a high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com), featuring a from-scratch native methods wrapper with 700 lines of manually defined structs, WinDLL imports, argtypes, and restypes, a custom C DLL, OCR & webhook support, and over 20 modular SRP-compliant services and utilities.
-
-- [**Discord RPC Client**](https://github.com/AlinaWan/DiscordRPCClient) — A fully free, open-source, and unopinionated Discord Custom Rich Presence editor.
 
 ## 🔵 Contributions / Collaborations
 
@@ -66,7 +60,20 @@
   <i>Nothing yet, but future collaborations may include alien civilizations, time travelers, or AI romantic partners.</i>
 </div>
 
-## 🟡 Projects on Hold
+## 🟡 Maintained Projects
+
+- 🤝 [**Hazel**](https://github.com/HazelLanguage/Hazel) — A modern, high performance programming language designed for building scalable, highly type-safe, and enterprise-grade applications.
+
+- 📌🤝 [**Roblox Chat Launcher**](https://github.com/RobloxChatLauncher/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
+
+- 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — The most technically advanced Roblox macro **ever** written in Python; a high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com), featuring a from-scratch native methods wrapper with 700 lines of manually defined structs, WinDLL imports, argtypes, and restypes, a custom C DLL, OCR & webhook support, and over 20 modular SRP-compliant services and utilities.
+
+- [**Discord RPC Client**](https://github.com/AlinaWan/DiscordRPCClient) — A fully free, open-source, and unopinionated Discord Custom Rich Presence editor.
+
+## ⚫ Retired / Archived Projects
+
+<details>
+  <summary>Click to expand</summary>
 
 - [**Xelvanta Softworks™ Roblox Custom Cursor**](https://github.com/Xelvanta/roblox-custom-cursor) — A fully featured, free cursor manager for [Roblox](https://corp.roblox.com) with file extension support. Currently in active development with a focus on user experience and ecosystem tooling.
 
@@ -79,14 +86,7 @@
 </div>
 
 - 📌 [**Anndromeda™ Royale High API**](https://github.com/Xelvanta/Anndromeda-RoyaleAPI) (a.k.a. RoyaleAPI or RHAPI) — An unofficial API for querying [Royale High](https://royalehigh.com) item data, built for developers and automation tools needing fast item lookup functionality.
-
 - [**Xelvanta Softworks™ Roblox Profile Manager**](https://github.com/Xelvanta/roblox-profile-manager) — A fully featured profile/account manager for [Roblox](https://corp.roblox.com) using Selenium for browser interaction.
-
-## ⚫ Retired / Archived Projects
-
-<details>
-  <summary>Click to expand</summary>
-
 - [**Bloxburg Solar Panel Calculator**](https://gist.github.com/AlinaWan/feebbc37f60ba34a992d8b2cb6150c1e) (Gist) — A state-space optimization calculator for [*Welcome to Bloxburg*](https://www.roblox.com/games/185655149) on [Roblox](https://corp.roblox.com) to calculate the optimal solar panel combination for any given house value and formal induction proof for the representability threshold of a Frobenius-like coin exchange/panel-value combination problem.
 - [**Conway-Wechsler Converter**](https://gist.github.com/AlinaWan/eb6cb03636ebd408f62f3dcd4800ad35) (Gist) — A Conway-Wechsler converter that adheres to liaison and assimilation rules, uses Miakinen's quin modification, and can output both short or long scale (Chuquet-Peletier system).
 - [**The Battle Bricks Macro**](https://github.com/AlinaWan/the-battle-bricks-macro) — A simple auto-battler for accumulating XP currency in the game [*The Battle Bricks*](https://www.roblox.com/games/10834586502) on [Roblox](https://corp.roblox.com).
