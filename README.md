@@ -52,6 +52,8 @@
 
 - 📌 [**Livia**](https://github.com/AlinaWan/Livia) — An avant-garde open-source C# automation framework and engine that brings reusable, extensible software architecture to Roblox macros, challenging the status quo of building automation as isolated, one-off scripts.
 
+- 🤝 [**you project**](https://alinawan.github.io/you/) — A collection of words, memories, and little things left unsaid.
+
 - 📌 [**Storage Hunters Tool**](https://github.com/AlinaWan/storage-hunters-tool) — The next generation of Roblox macro built upon [Bees Tool](https://github.com/AlinaWan/bees-tool)'s Præstantia Summa Engine; now with over 1000 lines of native methods, 350 lines of assembly & C++, and massively improved in performance and code quality. Storage Hunters Tool is a real-time computer vision tool built for the [Storage Hunters: Open World](https://www.roblox.com/games/98800969324557) environment. The system observes the movement of a signal over a continuous space and evaluates the target region in the same plane. When the movement and region match, an action is taken immediately.
 
 ## 🔵 Contributions / Collaborations
@@ -62,9 +64,9 @@
 
 ## 🟡 Maintained Projects
 
-- 🤝 [**Hazel**](https://github.com/HazelLanguage/Hazel) — A modern, high performance programming language designed for building scalable, highly type-safe, and enterprise-grade applications.
+- [**Hazel**](https://github.com/HazelLanguage/Hazel) — A modern, high performance programming language designed for building scalable, highly type-safe, and enterprise-grade applications.
 
-- 📌🤝 [**Roblox Chat Launcher**](https://github.com/RobloxChatLauncher/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
+- 📌 [**Roblox Chat Launcher**](https://github.com/RobloxChatLauncher/RobloxChatLauncher) — A secure, lightweight launcher designed to restore in-game communication and bring back the co-op gameplay [Roblox](https://corp.roblox.com) removed behind facial and ID verification. Engineered using a .NET 10 client and Node.js/Express backend, synchronized via WebSockets, and managed credentials with PostgreSQL. Developed in VS 2026, hosted on [Render.com](https://render.com).
 
 - 📌 [**Bees Tool**](https://github.com/AlinaWan/bees-tool) — The most technically advanced Roblox macro **ever** written in Python; a high-frequency, computer-vision-driven stabilization and execution utility architected for the [*Bees*](https://www.roblox.com/games/92528179587394) environment on [Roblox](https://corp.roblox.com), featuring a from-scratch native methods wrapper with 700 lines of manually defined structs, WinDLL imports, argtypes, and restypes, a custom C DLL, OCR & webhook support, and over 20 modular SRP-compliant services and utilities.
 
