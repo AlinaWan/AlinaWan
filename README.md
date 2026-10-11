@@ -18,15 +18,25 @@
         Obsessed with Automation 🤖
       </td>
       <td style="background-color:#d73a49; color:white; padding:6px 12px; border-radius:6px; margin:2px;">
-        Languages: C#, Python, AHK, Powershell, JS 🐍
+        Languages: C#, Python, AHK, Powershell, JS, Assembly (MASM/Microsoft x64 ABI) 🐍
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
+  
   A passionate systems engineer specializing in low-level operations, time-complexity optimization, and custom utility frameworks. I architect high-performance automation tools and native extensions, combining precision systems engineering, interop scripting, and computer vision to build seamless, highly optimized software for power users and developers.
+  
 </div>
+
+# Technical Competencies
+
+1. **Low-Level Reverse Engineering & Binary Analysis**: Reverse-engineered proprietary protocols and runtime behavior using breakpoint-driven debugging, disassembly, and advanced diagnostic tools, including Sysinternals and Intel VTune. Performed deep process and memory inspection, analyzed machine-code instructions and compiler-generated assembly, and investigated instruction-level performance bottlenecks to identify inefficient code generation and runtime behavior.
+
+2. **High-Performance Native Interop & Custom Runtimes**: Designed performance-critical automation and computer vision pipelines integrating managed languages (C# and Python) with custom native C libraries and assembly. Minimized runtime overhead through explicit structure marshaling, native memory management, register-level data manipulation, and allocation-conscious design.
+
+3. **Distributed Systems & Real-Time Communication**: Designed and deployed full-stack client-server systems using .NET 10, Node.js, and Express, with real-time WebSocket communication, PostgreSQL-backed credential persistence, and containerized cloud deployment.
 
 <br>
 
