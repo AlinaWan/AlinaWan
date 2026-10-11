@@ -32,7 +32,7 @@
 
 # Technical Competencies
 
-1. **Low-Level Reverse Engineering & Binary Analysis**: Reverse-engineered proprietary protocols and runtime behavior using breakpoint-driven debugging, disassembly, and advanced diagnostic tools, including Sysinternals and Intel VTune. Performed deep process and memory inspection, analyzed machine-code instructions and compiler-generated assembly, and investigated instruction-level performance bottlenecks to identify inefficient code generation and runtime behavior.
+1. **Low-Level Reverse Engineering & Binary Analysis**: Reverse-engineered proprietary protocols and runtime behavior using breakpoint-driven debugging, disassembly, and advanced diagnostic tools, including Sysinternals and Intel VTune. Performed deep process and memory inspection, analyzed machine-code instructions and compiler-generated assembly, and investigated instruction-level performance bottlenecks to identify inefficient code generation and runtime behavior. Implemented VSS-backed decryption workflows for accessing DPAPI-protected browser data.
 
 2. **High-Performance Native Interop & Custom Runtimes**: Designed performance-critical automation and computer vision pipelines integrating managed languages (C# and Python) with custom native C libraries and assembly. Minimized runtime overhead through explicit structure marshaling, native memory management, register-level data manipulation, and allocation-conscious design.
 
